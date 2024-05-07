@@ -1,0 +1,20 @@
+[25-Apr-2024 08:14:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function admin_url() in /home/customer/www/outofboxserver.com/public_html/staging-websites/17110-vampire-squid-wp/wp-content/themes/bespoke-theme/assets/javascript/customjs.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/outofboxserver.com/public_html/staging-websites/17110-vampire-squid-wp/wp-content/themes/bespoke-theme/assets/javascript/customjs.php on line 101
+[25-Apr-2024 08:14:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function admin_url() in /home/customer/www/outofboxserver.com/public_html/staging-websites/17110-vampire-squid-wp/wp-content/themes/bespoke-theme/assets/javascript/customjs.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/outofboxserver.com/public_html/staging-websites/17110-vampire-squid-wp/wp-content/themes/bespoke-theme/assets/javascript/customjs.php on line 101
+[25-Apr-2024 08:17:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function admin_url() in /home/customer/www/outofboxserver.com/public_html/staging-websites/17110-vampire-squid-wp/wp-content/themes/bespoke-theme/assets/javascript/customjs.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/outofboxserver.com/public_html/staging-websites/17110-vampire-squid-wp/wp-content/themes/bespoke-theme/assets/javascript/customjs.php on line 101
+[25-Apr-2024 08:18:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function admin_url() in /home/customer/www/outofboxserver.com/public_html/staging-websites/17110-vampire-squid-wp/wp-content/themes/bespoke-theme/assets/javascript/customjs.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/outofboxserver.com/public_html/staging-websites/17110-vampire-squid-wp/wp-content/themes/bespoke-theme/assets/javascript/customjs.php on line 102
+[25-Apr-2024 08:19:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function admin_url() in /home/customer/www/outofboxserver.com/public_html/staging-websites/17110-vampire-squid-wp/wp-content/themes/bespoke-theme/assets/javascript/customjs.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/outofboxserver.com/public_html/staging-websites/17110-vampire-squid-wp/wp-content/themes/bespoke-theme/assets/javascript/customjs.php on line 102

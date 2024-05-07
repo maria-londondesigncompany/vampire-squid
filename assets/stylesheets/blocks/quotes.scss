@@ -1,0 +1,25 @@
+.block-quotes {
+  .quotes {
+    max-width: calc(489px + 40px);
+  }
+
+  .quote {
+    padding: 40px;
+
+    .card-body {
+      &:before {
+        content: '';
+        width: 1.667em;
+        height: 1.333em;
+        background: url(../images/quote.svg) no-repeat center center;
+        background-size: contain;
+        display: inline-block;
+
+        margin-bottom: 1.778rem;
+      }
+
+      padding: 40px 56px;
+      font-weight: 700;
+    }
+  }
+}
